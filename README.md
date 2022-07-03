@@ -3,7 +3,7 @@ This repository contains several sample applications that demonstrate various Ok
 
 > Requires Python version 3.6.0 or higher.
 
-Please find the sample that fits your use-case from the table below.
+Note: Please find the sample that fits your use-case from the table below.
 
 | Sample                                  | Description |
 |-----------------------------------------|-------------|
